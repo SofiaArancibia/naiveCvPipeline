@@ -10,6 +10,7 @@ jupyterlab = "*"
 numpy = "*"
 opencv-python = "*"
 matplotlib = "*"
+opencv-contrib-python = "*"
 
 [requires]
 python_version = "3.6"
